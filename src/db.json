@@ -1,0 +1,126 @@
+{
+  "login": [
+    {
+      "username": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "username": "",
+      "password": "JSON Server ",
+      "id": 2
+    },
+    {
+      "username": "",
+      "password": "JSON Server ",
+      "id": 3
+    },
+    {
+      "username": "",
+      "password": "JSON Server ",
+      "id": 4
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "username": "",
+      "password": "JSON",
+      "id": 7
+    },
+    {
+      "username": "",
+      "password": "JSON",
+      "id": 8
+    },
+    {
+      "username": "",
+      "password": "JSON",
+      "id": 9
+    },
+    {
+      "username": "",
+      "password": "JSON",
+      "id": 10
+    },
+    {
+      "username": "",
+      "password": "JSON",
+      "id": 11
+    },
+    {
+      "username": "",
+      "password": "JSON",
+      "id": 12
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "username": "",
+      "password": "JSON",
+      "id": 15
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 16
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 17
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 18
+    }
+  ],
+  "signup": [
+    {
+      "name": "JSON Server",
+      "username": "JSON Server",
+      "password": "JSON Server",
+      "id": 1
+    },
+    {
+      "name": "JSON ",
+      "username": "JSON ",
+      "password": "JSON ",
+      "id": 2
+    },
+    {
+      "name": "",
+      "username": "",
+      "password": "JSON",
+      "id": 3
+    },
+    {
+      "name": "",
+      "username": "",
+      "password": "JSON",
+      "id": 4
+    },
+    {
+      "name": "",
+      "username": "",
+      "password": "JSON",
+      "id": 5
+    }
+  ]
+}
